@@ -1,1 +1,12 @@
 /* styles go here */
+.formfield {
+  padding-bottom: 10px;
+}
+
+.infoblock {
+  margin-bottom: 20px;
+}
+
+.formfield:last-child {
+  padding-bottom: 0;
+}
